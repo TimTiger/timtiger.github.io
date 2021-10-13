@@ -1,1 +1,0 @@
-import{o as e,c as r,d}from"./app.16b66658.js";const a='{"title":"Edge","description":"","frontmatter":{},"relativePath":"articles/browsers/edge.md","lastUpdated":1628318363582}',t={},i=d('',7);t.render=function(d,a,t,o,n,p){return e(),r("div",null,[i])};export default t;export{a as __pageData};

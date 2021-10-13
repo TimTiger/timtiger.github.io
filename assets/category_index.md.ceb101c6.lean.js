@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.be2d3ad2.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"category/index.md","lastUpdated":1621820704649}',a={};a.render=function(r,a,d,o,i,n){return t(),e("div")};export default a;export{r as __pageData};
