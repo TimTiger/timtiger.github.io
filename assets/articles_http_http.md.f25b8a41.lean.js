@@ -1,0 +1,1 @@
+import{o as e,c as r,d as t}from"./app.251449cf.js";const a='{"title":"HTTP","description":"","frontmatter":{},"relativePath":"articles/http/http.md","lastUpdated":1633485920744}',p={},o=t('',6);p.render=function(t,a,p,T,n,h){return e(),r("div",null,[o])};export default p;export{a as __pageData};

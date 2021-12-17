@@ -1,1 +1,0 @@
-import{o as t,c as r,d as e}from"./app.198084fd.js";const p='{"title":"HTTP 2.0","description":"","frontmatter":{},"relativePath":"articles/http/http2_0.md","lastUpdated":1628399545682}',a={},h=e('',4);a.render=function(e,p,a,l,o,s){return t(),r("div",null,[h])};export default a;export{p as __pageData};
