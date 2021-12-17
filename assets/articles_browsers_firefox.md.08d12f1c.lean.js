@@ -1,0 +1,1 @@
+import{o as e,c as r,d as a}from"./app.251449cf.js";const i='{"title":"FireFox","description":"","frontmatter":{},"relativePath":"articles/browsers/firefox.md","lastUpdated":1633607702326}',o={},t=a('',5);o.render=function(a,i,o,n,f,p){return e(),r("div",null,[t])};export default o;export{i as __pageData};
