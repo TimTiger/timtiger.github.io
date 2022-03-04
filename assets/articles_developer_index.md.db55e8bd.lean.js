@@ -1,1 +1,0 @@
-import{o as e,c as r,d as a}from"./app.251449cf.js";const t='{"title":"Web开发者必须具备的知识","description":"","frontmatter":{},"headers":[{"level":2,"title":"软件版本管理","slug":"软件版本管理"}],"relativePath":"articles/developer/index.md","lastUpdated":1633607772071}',d={},h=a('',3);d.render=function(a,t,d,n,l,s){return e(),r("div",null,[h])};export default d;export{t as __pageData};
