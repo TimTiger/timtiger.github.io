@@ -1,0 +1,1 @@
+import{o as a,c as e,d as r}from"./app.dc8a24b8.js";const i='{"title":"什么是Safari","description":"","frontmatter":{},"relativePath":"articles/browsers/safari.md","lastUpdated":1633607702331}',t={},o=r('',5);t.render=function(r,i,t,p,s,d){return a(),e("div",null,[o])};export default t;export{i as __pageData};
