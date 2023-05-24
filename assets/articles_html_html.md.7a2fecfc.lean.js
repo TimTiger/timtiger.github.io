@@ -1,1 +1,0 @@
-import{o as t,c as e,d as a}from"./app.b293b4f5.js";const r='{"title":"HTML","description":"","frontmatter":{},"headers":[{"level":2,"title":"HTML元素","slug":"html元素"}],"relativePath":"articles/html/html.md","lastUpdated":1640306902932}',n={},h=a('',5);n.render=function(a,r,n,o,l,i){return t(),e("div",null,[h])};export default n;export{r as __pageData};
