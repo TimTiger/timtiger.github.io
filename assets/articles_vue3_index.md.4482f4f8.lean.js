@@ -1,0 +1,1 @@
+import{o as a,c as n,d as s}from"./app.dc8a24b8.js";const t='{"title":"Vue3","description":"","frontmatter":{},"headers":[{"level":2,"title":"模板语法","slug":"模板语法"}],"relativePath":"articles/vue3/index.md","lastUpdated":1668035861584}',p={},e=s('',6);p.render=function(s,t,p,c,o,l){return a(),n("div",null,[e])};export default p;export{t as __pageData};
